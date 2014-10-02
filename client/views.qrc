@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/views">
+        <file>main.qml</file>
+        <file>content/ChatView.qml</file>
+        <file>content/LoginView.qml</file>
+    </qresource>
+</RCC>
